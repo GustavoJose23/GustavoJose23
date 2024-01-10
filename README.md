@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there :sunglasses:
 
-<!--
-**GustavoJose23/GustavoJose23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Gustavo Jose, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
+  - HTML5
+  - CSS3
+<br>
+E também iniciando estudos em: JavaScript | React
+<br>
+---------------------------------------------------------
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Gustavo stats](https://github-readme-stats.vercel.app/api?username=GustavoJose23)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJose23)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  
